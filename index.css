@@ -1,0 +1,57 @@
+body{
+    background-color:white;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container1{
+    padding-left: 16%;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.container2 {
+    padding-left: 280PX;
+    background-color:white;
+    font-size: small;
+    padding-top: 30PX;
+    padding-bottom: 10px;
+}
+.container2 h1{
+    color:black;
+}
+.container3
+{
+    background-color:white;
+    padding-left: 21%;
+}
+.container3 table{
+    color: black;
+}
+
+.mobile
+{
+    margin-left: 70%;
+    margin-bottom: 0px;
+   background-color:black;
+   width: 67px;
+   text-align: left;
+
+
+}
+.mobile button
+
+{
+    font-size: 12px;
+text-decoration: none;
+    background-color: white;
+}
